@@ -1,2 +1,3 @@
-# 3d-model
-Today we will learn together how to add a 3d model to our website in HTML and CSS in only 5 minutes.
+# 3d-mode
+lThis is a experimental custom element that allows 3D objects (currently, OBJ and gLTF format) to be loaded into a document and rendered inline, just like any other external resource. Additionally, any CSS transforms applied to the element will be passed on to the 3D model, allowing complex objects to be placed and maniplulated using just CSS.
+![preview (1)](https://zjxdeyxmnx84qs2guhiviw.on.drv.tw/host/)
